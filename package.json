@@ -1,0 +1,25 @@
+{
+  "name": "memgraph",
+  "version": "0.1.0",
+  "private": true,
+  "keywords": [
+    "memory",
+    "treemap"
+  ],
+  "author": "Petr Kadlec <mormegil@centrum.cz>",
+  "license": "GPL-3.0-or-later",
+  "repository": "github:mormegil-cz/memgraph",
+  "os": [
+    "win32"
+  ],
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "http-errors": "~1.6.2",
+    "morgan": "~1.9.0",
+    "node-wmi": "0.0.5"
+  }
+}
