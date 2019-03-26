@@ -16,10 +16,10 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
-    "debug": "~2.6.9",
-    "express": "~4.16.0",
-    "http-errors": "~1.6.2",
-    "morgan": "~1.9.0",
+    "debug": "~4.1.1",
+    "express": "~4.16.4",
+    "http-errors": "~1.7.2",
+    "morgan": "~1.9.1",
     "node-wmi": "0.0.5"
   }
 }
