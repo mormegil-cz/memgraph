@@ -19,7 +19,7 @@
     "debug": "~4.3.4",
     "express": "^4.22.2",
     "http-errors": "~2.0.0",
-    "morgan": "~1.10.1",
+    "morgan": "~1.11.0",
     "node-wmi": "0.0.5"
   }
 }
